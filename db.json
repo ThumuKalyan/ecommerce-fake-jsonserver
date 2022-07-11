@@ -219,19 +219,6 @@
       "typeVariant": "A",
       "colorVariant": "3",
       "imageUrl": "http://placeimg.com/641/480/tech"
-    },
-    {
-      "id": 218,
-      "name": "Quibusdam Watch",
-      "price": 100,
-      "subCategoryId": 102,
-      "categoryId": 1,
-      "rate": 3.44,
-      "content": "Consectetur nihil inventore ut delectus. Soluta eius soluta nisi eius. Accusantium atque impedit consectetur odio ea omnis.",
-      "review": 125,
-      "typeVariant": "B",
-      "colorVariant": "3",
-      "imageUrl": "http://placeimg.com/642/480/tech"
     }
   ]
 }
