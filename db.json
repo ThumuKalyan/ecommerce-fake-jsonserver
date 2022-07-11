@@ -180,32 +180,6 @@
       "typeVariant": "B",
       "colorVariant": "4",
       "imageUrl": "https://images.unsplash.com/photo-1612817159623-0399784fd0ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80"
-    },
-    {
-      "id": 215,
-      "name": "Non Watch",
-      "price": 189,
-      "subCategoryId": 101,
-      "categoryId": 1,
-      "rate": 3.51,
-      "content": "Eligendi rem perspiciatis quas accusamus. Consequatur perferendis placeat qui deleniti amet commodi harum reprehenderit. At quibusdam harum numquam quo.",
-      "review": 86,
-      "typeVariant": "B",
-      "colorVariant": "3",
-      "imageUrl": "http://placeimg.com/633/473/tech"
-    },
-    {
-      "id": 216,
-      "name": "Quaerat Watch",
-      "price": 280,
-      "subCategoryId": 102,
-      "categoryId": 1,
-      "rate": 0.81,
-      "content": "Nisi eos aspernatur exercitationem eius architecto dignissimos. Nam recusandae repellat saepe hic.",
-      "review": 135,
-      "typeVariant": "E",
-      "colorVariant": "2",
-      "imageUrl": "http://placeimg.com/633/473/tech"
     }
   ]
 }
