@@ -232,32 +232,6 @@
       "typeVariant": "B",
       "colorVariant": "3",
       "imageUrl": "http://placeimg.com/642/480/tech"
-    },
-    {
-      "id": 219,
-      "name": "Velit",
-      "price": 130,
-      "subCategoryId": 102,
-      "categoryId": 1,
-      "rate": 3.27,
-      "content": "Sint quibusdam ratione eos. Alias accusantium fugit eum dolores aliquid eum. Odit repellendus molestias veniam inventore earum.",
-      "review": 125,
-      "typeVariant": "D",
-      "colorVariant": "5",
-      "imageUrl": "http://placeimg.com/643/480/tech"
-    },
-    {
-      "id": 220,
-      "name": "Soluta",
-      "price": 109,
-      "subCategoryId": 102,
-      "categoryId": 1,
-      "rate": 0.28,
-      "content": "Quos accusamus distinctio voluptates ducimus neque molestias. Mollitia esse aliquid facilis iure repudiandae aspernatur inventore. Et fugiat vel earum. Unde vero in ipsa veniam vero necessitatibus ex.",
-      "review": 34,
-      "typeVariant": "B",
-      "colorVariant": "5",
-      "imageUrl": "http://placeimg.com/644/480/tech"
     }
   ]
 }
