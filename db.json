@@ -206,58 +206,6 @@
       "typeVariant": "E",
       "colorVariant": "2",
       "imageUrl": "http://placeimg.com/633/473/tech"
-    },
-    {
-      "id": 217,
-      "name": "Odit Watch",
-      "price": 238,
-      "subCategoryId": 102,
-      "categoryId": 1,
-      "rate": 2.35,
-      "content": "Beatae voluptatem soluta maxime non dignissimos. Doloribus asperiores dicta iusto itaque vel quos.",
-      "review": 186,
-      "typeVariant": "A",
-      "colorVariant": "3",
-      "imageUrl": "https://images.unsplash.com/photo-1612817159623-0399784fd0ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80"
-    },
-    {
-      "id": 218,
-      "name": "Quibusdam Watch",
-      "price": 100,
-      "subCategoryId": 102,
-      "categoryId": 1,
-      "rate": 3.44,
-      "content": "Consectetur nihil inventore ut delectus. Soluta eius soluta nisi eius. Accusantium atque impedit consectetur odio ea omnis.",
-      "review": 125,
-      "typeVariant": "B",
-      "colorVariant": "3",
-      "imageUrl": "http://placeimg.com/642/480/tech"
-    },
-    {
-      "id": 219,
-      "name": "Velit Watch",
-      "price": 130,
-      "subCategoryId": 102,
-      "categoryId": 1,
-      "rate": 3.27,
-      "content": "Sint quibusdam ratione eos. Alias accusantium fugit eum dolores aliquid eum. Odit repellendus molestias veniam inventore earum.",
-      "review": 125,
-      "typeVariant": "D",
-      "colorVariant": "5",
-      "imageUrl": "http://placeimg.com/643/480/tech"
-    },
-    {
-      "id": 220,
-      "name": "Soluta Watch",
-      "price": 109,
-      "subCategoryId": 102,
-      "categoryId": 1,
-      "rate": 0.28,
-      "content": "Quos accusamus distinctio voluptates ducimus neque molestias. Mollitia esse aliquid facilis iure repudiandae aspernatur inventore. Et fugiat vel earum. Unde vero in ipsa veniam vero necessitatibus ex.",
-      "review": 34,
-      "typeVariant": "B",
-      "colorVariant": "5",
-      "imageUrl": "http://placeimg.com/644/480/tech"
-    }
+    },    
   ]
 }
