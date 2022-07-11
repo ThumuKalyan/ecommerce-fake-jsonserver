@@ -206,19 +206,6 @@
       "typeVariant": "E",
       "colorVariant": "2",
       "imageUrl": "http://placeimg.com/633/473/tech"
-    },
-    {
-      "id": 217,
-      "name": "Odit Watch",
-      "price": 238,
-      "subCategoryId": 102,
-      "categoryId": 1,
-      "rate": 2.35,
-      "content": "Beatae voluptatem soluta maxime non dignissimos. Doloribus asperiores dicta iusto itaque vel quos.",
-      "review": 186,
-      "typeVariant": "A",
-      "colorVariant": "3",
-      "imageUrl": "http://placeimg.com/641/480/tech"
     }
   ]
 }
